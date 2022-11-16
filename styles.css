@@ -68,3 +68,10 @@ footer{
   }
 
   .dropdown:hover .dropdown-content {display: block;}
+
+  img {
+    height: 300px;
+    width: 300px;
+  }
+
+ 
